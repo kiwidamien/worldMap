@@ -1,0 +1,34 @@
+{
+  "name": "country_codes",
+  "version": "1.0.0",
+  "description": "Shows a map, with datatable containing countries, capitals, and world region",
+  "main": "index.html",
+  "dependencies": {
+    "datamaps": "^0.5.8"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.0.0",
+    "gh-pages-deploy": "^0.4.2",
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiwidamien/worldMap.git"
+  },
+  "keywords": [
+    "world",
+    "map",
+    "visualizatoin",
+    "d3"
+  ],
+  "author": "Damien Martin",
+  "bugs": {
+    "url": "https://github.com/kiwidamien/worldMap/issues"
+  },
+  "homepage": "https://github.com/kiwidamien/worldMap"
+}
