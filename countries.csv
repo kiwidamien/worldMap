@@ -1,0 +1,261 @@
+id,code2,name,capital,population,region
+AFG,AF,Afghanistan,Kabul,AFG,Asia
+ALB,AL,Albania,Tirana,ALB,Europe
+DZA,DZ,Algeria,Algiers,DZA,Africa
+AND,AD,Andorra,Andorra la Vella,AND,Europe
+AGO,AO,Angola,Luanda,AGO,Africa
+ATG,AG,Antigua and Barbuda,Saint John's,ATG,Latin Ameirca
+ARG,AR,Argentina,Buenos Aires,ARG,Latin America
+ARM,AM,Armenia,Yerevan,ARM,Europe
+AUS,AU,Australia,Canberra,AUS,Pacific
+AUT,AT,Austria,Vienna,AUT,Europe
+AZE,AZ,Azerbaijan,Baku,AZE,Asia
+BHS,BS,Bahamas,Nassau,0.3,Latin America
+BHR,BH,Bahrain,Manama,BHR,Middle East
+BGD,BD,Bangladesh,Dhaka,BGD,Asia
+BRB,BB,Barbados,Bridgetown,BRB,Latin America
+BLR,BY,Belarus,Minsk,BLR,Europe
+BEL,BE,Belgium,Brussels,BEL,Europe
+BLZ,BZ,Belize,Belmopan,BLZ,Latin America
+BEN,BJ,Benin,Porto-Novo,BEN,Africa
+BTN,BT,Bhutan,Thimphu,BTN,Asia
+BOL,BO,Bolivia,La Paz (administrative/legislative) and Sucre (judical),BOL,Latin America
+BIH,BA,Bosnia and Herzegovina,Sarajevo,BIH,Europe
+BWA,BW,Botswana,Gaborone,BWA,Africa
+BRA,BR,Brazil,Brasilia,BRA,Latin America
+BRN,BN,Brunei,Bandar Seri Begawan,BRN,Pacific
+BGR,BG,Bulgaria,Sofia,BGR,Europe
+BFA,BF,Burkina Faso,Ouagadougou,BFA,BFA
+BDI,BI,Burundi,Bujumbura,BDI,Africa
+KHM,KH,Cambodia,Phnom Penh,KHM,Asia
+CMR,CM,Cameroon,Yaounde,CMR,Africa
+CAN,CA,Canada,Ottawa,CAN,North America
+CPV,CV,Cape Verde,Praia,CPV,Africa
+CAF,CF,Central African Republic,Bangui,CAF,Africa
+TCD,TD,Chad,N'Djamena,TCD,Africa
+CHL,CL,Chile,Santiago (administrative/judical) and Valparaiso (legislative),CHL,Latin America
+CHN,CN,China,Beijing,1600,Asia
+COL,CO,Colombia,Bogota,COL,Latin America
+COM,KM,Comoros,Moroni,COM,Africa
+CRI,CR,Costa Rica,San Jose,CRI,Latin America
+CIV,CI,Cote d'Ivoire (Ivory Coast),Yamoussoukro,CIV,Africa
+HRV,HR,Croatia,Zagreb,HRV,Europe
+CUB,CU,Cuba,Havana,CUB,Latin America
+CYP,CY,Cyprus,Nicosia,CYP,Europe
+CZE,CZ,Czech Republic,Prague,CZE,Europe
+DNK,DK,Denmark,Copenhagen,DNK,Europe
+DJI,DJ,Djibouti,Djibouti,DJI,Africa
+DMA,DM,Dominica,Roseau,DMA,Latin America
+DOM,DO,Dominican Republic,Santo Domingo,DOM,Latin America
+ECU,EC,Ecuador,Quito,ECU,Latin America
+EGY,EG,Egypt,Cairo,EGY,Middle East
+SLV,SV,El Salvador,San Salvador,SLV,Latin America
+GNQ,GQ,Equatorial Guinea,Malabo,GNQ,Africa
+ERI,ER,Eritrea,Asmara,ERI,Africa
+EST,EE,Estonia,Tallinn,EST,Europe
+ETH,ET,Ethiopia,Addis Ababa,ETH,Africa
+FJI,FJ,Fiji,Suva,FJI,Pacific
+FIN,FI,Finland,Helsinki,FIN,Europe
+FRA,FR,France,Paris,FRA,Europe
+GAB,GA,Gabon,Libreville,GAB,Africa
+GEO,GE,Georgia,Tbilisi,GEO,Middle East
+DEU,DE,Germany,Berlin,DEU,Europe
+GHA,GH,Ghana,Accra,GHA,Africa
+GRC,GR,Greece,Athens,GRC,Europe
+GRD,GD,Grenada,Saint George's,GRD,Latin America
+GTM,GT,Guatemala,Guatemala,GTM,Latin America
+GIN,GN,Guinea,Conakry,GIN,Africa
+GNB,GW,Guinea-Bissau,Bissau,GNB,Africa
+GUY,GY,Guyana,Georgetown,GUY,Latin America
+HTI,HT,Haiti,Port-au-Prince,HTI,Latin America
+HND,HN,Honduras,Tegucigalpa,HND,Latin America
+HUN,HU,Hungary,Budapest,HUN,Europe
+ISL,IS,Iceland,Reykjavik,ISL,Europe
+IND,IN,India,New Delhi,IND,Asia
+IDN,ID,Indonesia,Jakarta,IDN,SE Asias
+IRN,IR,Iran,Tehran,IRN,Middle East
+IRQ,IQ,Iraq,Baghdad,IRQ,Middle East
+IRL,IE,Ireland,Dublin,IRL,Europe
+ISR,IL,Israel,Jerusalem,ISR,Middle East
+ITA,IT,Italy,Rome,ITA,Europe
+JAM,JM,Jamaica,Kingston,JAM,Latin America
+JPN,JP,Japan,Tokyo,126,Asia
+JOR,JO,Jordan,Amman,JOR,Middle East
+KAZ,KZ,Kazakhstan,Astana,KAZ,Europe
+KEN,KE,Kenya,Nairobi,KEN,Africa
+KIR,KI,Kiribati,Tarawa,KIR,Pacific
+KP,850,North Korea,Pyongyang,25,Asia
+KR,82,South Korea,Seoul,51,Asia
+KWT,KW,Kuwait,Kuwait,KWT,Middle East
+KGZ,KG,Kyrgyzstan,Bishkek,KGZ,Asia
+LAO,LA,Laos,Vientiane,LAO,SE Asia
+LVA,LV,Latvia,Riga,LVA,Europe
+LBN,LB,Lebanon,Beirut,LBN,Middle East
+LSO,LS,Lesotho,Maseru,LSO,LSO
+LBR,LR,Liberia,Monrovia,LBR,Africa
+LBY,LY,Libya,Tripoli,LBY,Africa
+LIE,LI,Liechtenstein,Vaduz,LIE,Europe
+LTU,LT,Lithuania,Vilnius,LTU,Europe
+LUX,LU,Luxembourg,Luxembourg,LUX,Europe
+MKD,MK,Macedonia,Skopje,MKD,Europe
+MDG,MG,Madagascar,Antananarivo,MDG,Africa
+MWI,MW,Malawi,Lilongwe,MWI,Africa
+MYS,MY,Malaysia,Kuala Lumpur (legislative/judical) and Putrajaya (administrative),MYS,SE Asia
+MDV,MV,Maldives,Male,MDV,Asia
+MLI,ML,Mali,Bamako,MLI,Africa
+MLT,MT,Malta,Valletta,MLT,Europe
+MHL,MH,Marshall Islands,Majuro,MHL,MHL
+MRT,MR,Mauritania,Nouakchott,MRT,Africa
+MUS,MU,Mauritius,Port Louis,MUS,Africa
+MEX,MX,Mexico,Mexico,MEX,Latin America
+FSM,FM,Micronesia,Palikir,FSM,Pacific
+MDA,MD,Moldova,Chisinau,MDA,Europe
+MCO,MC,Monaco,Monaco,MCO,Europe
+MNG,MN,Mongolia,Ulaanbaatar,MNG,Asia
+MNE,ME,Montenegro,Podgorica,MNE,Europe
+MAR,MA,Morocco,Rabat,MAR,Africa
+MOZ,MZ,Mozambique,Maputo,MOZ,Africa
+MMR,MM,Myanmar (Burma),Naypyidaw,MMR,SE Asia
+NAM,NA,Namibia,Windhoek,NAM,Africa
+NRU,NR,Nauru,Yaren,NRU,Pacific
+NPL,NP,Nepal,Kathmandu,NPL,Asia
+NLD,NL,Netherlands,Amsterdam (administrative) and The Hague (legislative/judical),NLD,Europe
+NZL,NZ,New Zealand,Wellington,NZL,Pacific
+NIC,NI,Nicaragua,Managua,NIC,Latin America
+NER,NE,Niger,Niamey,NER,Africa
+NGA,NG,Nigeria,Abuja,NGA,Africa
+NOR,NO,Norway,Oslo,NOR,Europe
+OMN,OM,Oman,Muscat,OMN,Middle East
+PAK,PK,Pakistan,Islamabad,PAK,Asia
+PLW,PW,Palau,Melekeok,PLW,PLW
+PAN,PA,Panama,Panama,PAN,Latin America
+PNG,PG,Papua New Guinea,Port Moresby,PNG,Pacific
+PRY,PY,Paraguay,Asuncion,PRY,Latin America
+PER,PE,Peru,Lima,PER,Latin America
+PHL,PH,Philippines,Manila,PHL,Pacific
+POL,PL,Poland,Warsaw,POL,Europe
+PRT,PT,Portugal,Lisbon,PRT,Europe
+QAT,QA,Qatar,Doha,QAT,Middle East
+ROU,RO,Romania,Bucharest,ROU,Europe
+RUS,RU,Russia,Moscow,RUS,Russia
+RWA,RW,Rwanda,Kigali,RWA,Africa
+KNA,KN,Saint Kitts and Nevis,Basseterre,KNA,KNA
+LCA,LC,Saint Lucia,Castries,LCA,Lating America
+VCT,VC,Saint Vincent and the Grenadines,Kingstown,VCT,Latin America
+WSM,WS,Samoa,Apia,WSM,Pacific
+SMR,SM,San Marino,San Marino,SMR,SMR
+STP,ST,Sao Tome and Principe,Sao Tome,STP,STP
+SAU,SA,Saudi Arabia,Riyadh,SAU,Middle East
+SEN,SN,Senegal,Dakar,SEN,Africa
+SRB,RS,Serbia,Belgrade,SRB,Europe
+SYC,SC,Seychelles,Victoria,SYC,SYC
+SLE,SL,Sierra Leone,Freetown,SLE,Africa
+SGP,SG,Singapore,Singapore,SGP,SE Asia
+SVK,SK,Slovakia,Bratislava,SVK,Europe
+SVN,SI,Slovenia,Ljubljana,SVN,Europe
+SLB,SB,Solomon Islands,Honiara,SLB,Pacific
+SOM,SO,Somalia,Mogadishu,SOM,Africa
+ESP,ES,Spain,Madrid,ESP,Europe
+LKA,LK,Sri Lanka,Colombo (administrative/judical) and Sri Jayewardenepura Kotte (legislative),LKA,Asia
+SDN,SD,Sudan,Khartoum,SDN,Africa
+SUR,SR,Suriname,Paramaribo,SUR,Latin America
+SWZ,SZ,Swaziland,Mbabane (administrative) and Lobamba (legislative),SWZ,Africa
+SWE,SE,Sweden,Stockholm,SWE,Europe
+CHE,CH,Switzerland,Bern,CHE,Europe
+SYR,SY,Syria,Damascus,SYR,Middle East
+TJK,TJ,Tajikistan,Dushanbe,TJK,Asia
+TZA,TZ,Tanzania,Dar es Salaam (administrative/judical) and Dodoma (legislative),TZA,Africa
+THA,TH,Thailand,Bangkok,THA,SE Asia
+TLS,TL,Timor-Leste (East Timor),Dili,TLS,Pacific
+TGO,TG,Togo,Lome,TGO,Africa
+TON,TO,Tonga,Nuku'alofa,TON,Pacific
+TTO,TT,Trinidad and Tobago,Port-of-Spain,TTO,TTO
+TUN,TN,Tunisia,Tunis,TUN,Africa
+TUR,TR,Turkey,Ankara,TUR,Middle East
+TKM,TM,Turkmenistan,Ashgabat,TKM,Asia
+TUV,TV,Tuvalu,Funafuti,TUV,TUV
+UGA,UG,Uganda,Kampala,UGA,Africa
+UKR,UA,Ukraine,Kiev,UKR,Europe
+ARE,AE,United Arab Emirates,Abu Dhabi,ARE,Middle East
+GBR,GB,United Kingdom,London,GBR,Europe
+USA,US,United States,Washington,USA,North America
+URY,UY,Uruguay,Montevideo,URY,Latin America
+UZB,UZ,Uzbekistan,Tashkent,UZB,Asia
+VUT,VU,Vanuatu,Port-Vila,VUT,Pacific
+VAT,VA,Vatican City,Vatican City,VAT,Europe
+VEN,VE,Venezuela,Caracas,VEN,LAtin America
+VNM,VN,Vietnam,Hanoi,VNM,SE Asia
+YEM,YE,Yemen,Sanaa,YEM,Middle East
+ZMB,ZM,Zambia,Lusaka,ZMB,Africa
+ZWE,ZW,Zimbabwe,Harare,ZWE,Africa
+GEO,GE,Abkhazia,Sokhumi,GEO,Middle East
+TW,886,Taiwan,Taipei,TW,Asia 
+AZE,AZ,Nagorno-Karabakh,Stepanakert,AZE,AZE
+CYP,CY,Northern Cyprus,Nicosia,CYP,Middle East
+MDA,MD,Pridnestrovie (Transnistria),Tiraspol,MDA,MDA
+GEO,GE,South Ossetia,Tskhinvali,GEO,GEO
+CXR,CX,Christmas Island,The Settlement (Flying Fish Cove),CXR,CXR
+CCK,CC,Cocos (Keeling) Islands,West Island,CCK,CCK
+HMD,HM,Heard Island and McDonald Islands,,HMD,HMD
+NFK,NF,Norfolk Island,Kingston,NFK,Pacific
+NCL,NC,New Caledonia,Noumea,NCL,Pacific
+PYF,PF,French Polynesia,Papeete,PYF,Pacific
+MYT,YT,Mayotte,Mamoudzou,MYT,MYT
+GLP,GP,Saint Barthelemy,Gustavia,GLP,GLP
+GLP,GP,Saint Martin,Marigot,GLP,GLP
+SPM,PM,Saint Pierre and Miquelon,Saint-Pierre,SPM,SPM
+WLF,WF,Wallis and Futuna,Mata'utu,WLF,WLF
+ATF,TF,French Southern and Antarctic Lands,Martin-de-Viviès,ATF,ATF
+PYF,PF,Clipperton Island,,PYF,PYF
+BVT,BV,Bouvet Island,,BVT,BVT
+COK,CK,Cook Islands,Avarua,COK,Pacific
+NIU,NU,Niue,Alofi,NIU,Pacific
+TKL,TK,Tokelau,,TKL,TKL
+GGY,GG,Guernsey,Saint Peter Port,GGY,GGY
+IMN,IM,Isle of Man,Douglas,IMN,IMN
+JEY,JE,Jersey,Saint Helier,JEY,JEY
+AIA,AI,Anguilla,The Valley,AIA,AIA
+BMU,BM,Bermuda,Hamilton,BMU,Latin America
+IOT,IO,British Indian Ocean Territory,,IOT,IOT
+VGB,VG,British Virgin Islands,Road Town,VGB,VGB
+CYM,KY,Cayman Islands,George Town,CYM,CYM
+FLK,FK,Falkland Islands (Islas Malvinas),Stanley,FLK,FLK
+GIB,GI,Gibraltar,Gibraltar,GIB,GIB
+MSR,MS,Montserrat,Plymouth,MSR,MSR
+PCN,PN,Pitcairn Islands,Adamstown,PCN,PCN
+SHN,SH,Saint Helena,Jamestown,SHN,SHN
+SGS,GS,South Georgia & South Sandwich Islands,,SGS,SGS
+TCA,TC,Turks and Caicos Islands,Grand Turk,TCA,TCA
+MNP,MP,Northern Mariana Islands,Saipan,MNP,MNP
+PRI,PR,Puerto Rico,San Juan,PRI,Latin America
+ASM,AS,American Samoa,Pago Pago,ASM,Pacific
+UMI,UM,Baker Island,,UMI,UMI
+GUM,GU,Guam,Hagatna,GUM,GUM
+UMI,UM,Howland Island,,UMI,UMI
+UMI,UM,Jarvis Island,,UMI,UMI
+UMI,UM,Johnston Atoll,,UMI,UMI
+UMI,UM,Kingman Reef,,UMI,UMI
+UMI,UM,Midway Islands,,UMI,UMI
+UMI,UM,Navassa Island,,UMI,UMI
+UMI,UM,Palmyra Atoll,,UMI,UMI
+VIR,VI,U.S. Virgin Islands,Charlotte Amalie,VIR,VIR
+UMI,UM,Wake Island,,UMI,Pacific
+HKG,HK,Hong Kong,,HKG,Asia
+MAC,MO,Macau,Macau,MAC,Asia
+FRO,FO,Faroe Islands,Torshavn,FRO,FRO
+GRL,GL,Greenland,Nuuk (Godthab),GRL,GRL
+GUF,GF,French Guiana,Cayenne,GUF,GUF
+GLP,GP,Guadeloupe,Basse-Terre,GLP,Latin America
+MTQ,MQ,Martinique,Fort-de-France,MTQ,MTQ
+REU,RE,Reunion,Saint-Denis,REU,Africa
+ALA,AX,Aland,Mariehamn,ALA,Europe
+ABW,AW,Aruba,Oranjestad,ABW,Lating America
+ANT,AN,Netherlands Antilles,Willemstad,ANT,Europe
+SJM,SJ,Svalbard,Longyearbyen,SJM,SJM
+ASC,AC,Ascension,Georgetown,ASC,ASC
+TAA,TA,Tristan da Cunha,Edinburgh,TAA,TAA
+ATA,AQ,Australian Antarctic Territory,,ATA,Antartica
+ATA,AQ,Ross Dependency,,ATA,Antartica
+ATA,AQ,Peter I Island,,ATA,Antartica
+ATA,AQ,Queen Maud Land,,ATA,Antartica
+ATA,AQ,British Antarctic Territory,,ATA,Antartica
