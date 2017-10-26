@@ -1,261 +1,249 @@
-id,code2,name,capital,population,region
-AFG,AF,Afghanistan,Kabul,AFG,Asia
-ALB,AL,Albania,Tirana,ALB,Europe
-DZA,DZ,Algeria,Algiers,DZA,Africa
-AND,AD,Andorra,Andorra la Vella,AND,Europe
-AGO,AO,Angola,Luanda,AGO,Africa
-ATG,AG,Antigua and Barbuda,Saint John's,ATG,Latin Ameirca
-ARG,AR,Argentina,Buenos Aires,ARG,Latin America
-ARM,AM,Armenia,Yerevan,ARM,Europe
-AUS,AU,Australia,Canberra,AUS,Pacific
-AUT,AT,Austria,Vienna,AUT,Europe
-AZE,AZ,Azerbaijan,Baku,AZE,Asia
-BHS,BS,Bahamas,Nassau,0.3,Latin America
-BHR,BH,Bahrain,Manama,BHR,Middle East
-BGD,BD,Bangladesh,Dhaka,BGD,Asia
-BRB,BB,Barbados,Bridgetown,BRB,Latin America
-BLR,BY,Belarus,Minsk,BLR,Europe
-BEL,BE,Belgium,Brussels,BEL,Europe
-BLZ,BZ,Belize,Belmopan,BLZ,Latin America
-BEN,BJ,Benin,Porto-Novo,BEN,Africa
-BTN,BT,Bhutan,Thimphu,BTN,Asia
-BOL,BO,Bolivia,La Paz (administrative/legislative) and Sucre (judical),BOL,Latin America
-BIH,BA,Bosnia and Herzegovina,Sarajevo,BIH,Europe
-BWA,BW,Botswana,Gaborone,BWA,Africa
-BRA,BR,Brazil,Brasilia,BRA,Latin America
-BRN,BN,Brunei,Bandar Seri Begawan,BRN,Pacific
-BGR,BG,Bulgaria,Sofia,BGR,Europe
-BFA,BF,Burkina Faso,Ouagadougou,BFA,BFA
-BDI,BI,Burundi,Bujumbura,BDI,Africa
-KHM,KH,Cambodia,Phnom Penh,KHM,Asia
-CMR,CM,Cameroon,Yaounde,CMR,Africa
-CAN,CA,Canada,Ottawa,CAN,North America
-CPV,CV,Cape Verde,Praia,CPV,Africa
-CAF,CF,Central African Republic,Bangui,CAF,Africa
-TCD,TD,Chad,N'Djamena,TCD,Africa
-CHL,CL,Chile,Santiago (administrative/judical) and Valparaiso (legislative),CHL,Latin America
-CHN,CN,China,Beijing,1600,Asia
-COL,CO,Colombia,Bogota,COL,Latin America
-COM,KM,Comoros,Moroni,COM,Africa
-CRI,CR,Costa Rica,San Jose,CRI,Latin America
-CIV,CI,Cote d'Ivoire (Ivory Coast),Yamoussoukro,CIV,Africa
-HRV,HR,Croatia,Zagreb,HRV,Europe
-CUB,CU,Cuba,Havana,CUB,Latin America
-CYP,CY,Cyprus,Nicosia,CYP,Europe
-CZE,CZ,Czech Republic,Prague,CZE,Europe
-DNK,DK,Denmark,Copenhagen,DNK,Europe
-DJI,DJ,Djibouti,Djibouti,DJI,Africa
-DMA,DM,Dominica,Roseau,DMA,Latin America
-DOM,DO,Dominican Republic,Santo Domingo,DOM,Latin America
-ECU,EC,Ecuador,Quito,ECU,Latin America
-EGY,EG,Egypt,Cairo,EGY,Middle East
-SLV,SV,El Salvador,San Salvador,SLV,Latin America
-GNQ,GQ,Equatorial Guinea,Malabo,GNQ,Africa
-ERI,ER,Eritrea,Asmara,ERI,Africa
-EST,EE,Estonia,Tallinn,EST,Europe
-ETH,ET,Ethiopia,Addis Ababa,ETH,Africa
-FJI,FJ,Fiji,Suva,FJI,Pacific
-FIN,FI,Finland,Helsinki,FIN,Europe
-FRA,FR,France,Paris,FRA,Europe
-GAB,GA,Gabon,Libreville,GAB,Africa
-GEO,GE,Georgia,Tbilisi,GEO,Middle East
-DEU,DE,Germany,Berlin,DEU,Europe
-GHA,GH,Ghana,Accra,GHA,Africa
-GRC,GR,Greece,Athens,GRC,Europe
-GRD,GD,Grenada,Saint George's,GRD,Latin America
-GTM,GT,Guatemala,Guatemala,GTM,Latin America
-GIN,GN,Guinea,Conakry,GIN,Africa
-GNB,GW,Guinea-Bissau,Bissau,GNB,Africa
-GUY,GY,Guyana,Georgetown,GUY,Latin America
-HTI,HT,Haiti,Port-au-Prince,HTI,Latin America
-HND,HN,Honduras,Tegucigalpa,HND,Latin America
-HUN,HU,Hungary,Budapest,HUN,Europe
-ISL,IS,Iceland,Reykjavik,ISL,Europe
-IND,IN,India,New Delhi,IND,Asia
-IDN,ID,Indonesia,Jakarta,IDN,SE Asias
-IRN,IR,Iran,Tehran,IRN,Middle East
-IRQ,IQ,Iraq,Baghdad,IRQ,Middle East
-IRL,IE,Ireland,Dublin,IRL,Europe
-ISR,IL,Israel,Jerusalem,ISR,Middle East
-ITA,IT,Italy,Rome,ITA,Europe
-JAM,JM,Jamaica,Kingston,JAM,Latin America
-JPN,JP,Japan,Tokyo,126,Asia
-JOR,JO,Jordan,Amman,JOR,Middle East
-KAZ,KZ,Kazakhstan,Astana,KAZ,Europe
-KEN,KE,Kenya,Nairobi,KEN,Africa
-KIR,KI,Kiribati,Tarawa,KIR,Pacific
-KP,850,North Korea,Pyongyang,25,Asia
-KR,82,South Korea,Seoul,51,Asia
-KWT,KW,Kuwait,Kuwait,KWT,Middle East
-KGZ,KG,Kyrgyzstan,Bishkek,KGZ,Asia
-LAO,LA,Laos,Vientiane,LAO,SE Asia
-LVA,LV,Latvia,Riga,LVA,Europe
-LBN,LB,Lebanon,Beirut,LBN,Middle East
-LSO,LS,Lesotho,Maseru,LSO,LSO
-LBR,LR,Liberia,Monrovia,LBR,Africa
-LBY,LY,Libya,Tripoli,LBY,Africa
-LIE,LI,Liechtenstein,Vaduz,LIE,Europe
-LTU,LT,Lithuania,Vilnius,LTU,Europe
-LUX,LU,Luxembourg,Luxembourg,LUX,Europe
-MKD,MK,Macedonia,Skopje,MKD,Europe
-MDG,MG,Madagascar,Antananarivo,MDG,Africa
-MWI,MW,Malawi,Lilongwe,MWI,Africa
-MYS,MY,Malaysia,Kuala Lumpur (legislative/judical) and Putrajaya (administrative),MYS,SE Asia
-MDV,MV,Maldives,Male,MDV,Asia
-MLI,ML,Mali,Bamako,MLI,Africa
-MLT,MT,Malta,Valletta,MLT,Europe
-MHL,MH,Marshall Islands,Majuro,MHL,MHL
-MRT,MR,Mauritania,Nouakchott,MRT,Africa
-MUS,MU,Mauritius,Port Louis,MUS,Africa
-MEX,MX,Mexico,Mexico,MEX,Latin America
-FSM,FM,Micronesia,Palikir,FSM,Pacific
-MDA,MD,Moldova,Chisinau,MDA,Europe
-MCO,MC,Monaco,Monaco,MCO,Europe
-MNG,MN,Mongolia,Ulaanbaatar,MNG,Asia
-MNE,ME,Montenegro,Podgorica,MNE,Europe
-MAR,MA,Morocco,Rabat,MAR,Africa
-MOZ,MZ,Mozambique,Maputo,MOZ,Africa
-MMR,MM,Myanmar (Burma),Naypyidaw,MMR,SE Asia
-NAM,NA,Namibia,Windhoek,NAM,Africa
-NRU,NR,Nauru,Yaren,NRU,Pacific
-NPL,NP,Nepal,Kathmandu,NPL,Asia
-NLD,NL,Netherlands,Amsterdam (administrative) and The Hague (legislative/judical),NLD,Europe
-NZL,NZ,New Zealand,Wellington,NZL,Pacific
-NIC,NI,Nicaragua,Managua,NIC,Latin America
-NER,NE,Niger,Niamey,NER,Africa
-NGA,NG,Nigeria,Abuja,NGA,Africa
-NOR,NO,Norway,Oslo,NOR,Europe
-OMN,OM,Oman,Muscat,OMN,Middle East
-PAK,PK,Pakistan,Islamabad,PAK,Asia
-PLW,PW,Palau,Melekeok,PLW,PLW
-PAN,PA,Panama,Panama,PAN,Latin America
-PNG,PG,Papua New Guinea,Port Moresby,PNG,Pacific
-PRY,PY,Paraguay,Asuncion,PRY,Latin America
-PER,PE,Peru,Lima,PER,Latin America
-PHL,PH,Philippines,Manila,PHL,Pacific
-POL,PL,Poland,Warsaw,POL,Europe
-PRT,PT,Portugal,Lisbon,PRT,Europe
-QAT,QA,Qatar,Doha,QAT,Middle East
-ROU,RO,Romania,Bucharest,ROU,Europe
-RUS,RU,Russia,Moscow,RUS,Russia
-RWA,RW,Rwanda,Kigali,RWA,Africa
-KNA,KN,Saint Kitts and Nevis,Basseterre,KNA,KNA
-LCA,LC,Saint Lucia,Castries,LCA,Lating America
-VCT,VC,Saint Vincent and the Grenadines,Kingstown,VCT,Latin America
-WSM,WS,Samoa,Apia,WSM,Pacific
-SMR,SM,San Marino,San Marino,SMR,SMR
-STP,ST,Sao Tome and Principe,Sao Tome,STP,STP
-SAU,SA,Saudi Arabia,Riyadh,SAU,Middle East
-SEN,SN,Senegal,Dakar,SEN,Africa
-SRB,RS,Serbia,Belgrade,SRB,Europe
-SYC,SC,Seychelles,Victoria,SYC,SYC
-SLE,SL,Sierra Leone,Freetown,SLE,Africa
-SGP,SG,Singapore,Singapore,SGP,SE Asia
-SVK,SK,Slovakia,Bratislava,SVK,Europe
-SVN,SI,Slovenia,Ljubljana,SVN,Europe
-SLB,SB,Solomon Islands,Honiara,SLB,Pacific
-SOM,SO,Somalia,Mogadishu,SOM,Africa
-ESP,ES,Spain,Madrid,ESP,Europe
-LKA,LK,Sri Lanka,Colombo (administrative/judical) and Sri Jayewardenepura Kotte (legislative),LKA,Asia
-SDN,SD,Sudan,Khartoum,SDN,Africa
-SUR,SR,Suriname,Paramaribo,SUR,Latin America
-SWZ,SZ,Swaziland,Mbabane (administrative) and Lobamba (legislative),SWZ,Africa
-SWE,SE,Sweden,Stockholm,SWE,Europe
-CHE,CH,Switzerland,Bern,CHE,Europe
-SYR,SY,Syria,Damascus,SYR,Middle East
-TJK,TJ,Tajikistan,Dushanbe,TJK,Asia
-TZA,TZ,Tanzania,Dar es Salaam (administrative/judical) and Dodoma (legislative),TZA,Africa
-THA,TH,Thailand,Bangkok,THA,SE Asia
-TLS,TL,Timor-Leste (East Timor),Dili,TLS,Pacific
-TGO,TG,Togo,Lome,TGO,Africa
-TON,TO,Tonga,Nuku'alofa,TON,Pacific
-TTO,TT,Trinidad and Tobago,Port-of-Spain,TTO,TTO
-TUN,TN,Tunisia,Tunis,TUN,Africa
-TUR,TR,Turkey,Ankara,TUR,Middle East
-TKM,TM,Turkmenistan,Ashgabat,TKM,Asia
-TUV,TV,Tuvalu,Funafuti,TUV,TUV
-UGA,UG,Uganda,Kampala,UGA,Africa
-UKR,UA,Ukraine,Kiev,UKR,Europe
-ARE,AE,United Arab Emirates,Abu Dhabi,ARE,Middle East
-GBR,GB,United Kingdom,London,GBR,Europe
-USA,US,United States,Washington,USA,North America
-URY,UY,Uruguay,Montevideo,URY,Latin America
-UZB,UZ,Uzbekistan,Tashkent,UZB,Asia
-VUT,VU,Vanuatu,Port-Vila,VUT,Pacific
-VAT,VA,Vatican City,Vatican City,VAT,Europe
-VEN,VE,Venezuela,Caracas,VEN,LAtin America
-VNM,VN,Vietnam,Hanoi,VNM,SE Asia
-YEM,YE,Yemen,Sanaa,YEM,Middle East
-ZMB,ZM,Zambia,Lusaka,ZMB,Africa
-ZWE,ZW,Zimbabwe,Harare,ZWE,Africa
-GEO,GE,Abkhazia,Sokhumi,GEO,Middle East
-TW,886,Taiwan,Taipei,TW,Asia 
-AZE,AZ,Nagorno-Karabakh,Stepanakert,AZE,AZE
-CYP,CY,Northern Cyprus,Nicosia,CYP,Middle East
-MDA,MD,Pridnestrovie (Transnistria),Tiraspol,MDA,MDA
-GEO,GE,South Ossetia,Tskhinvali,GEO,GEO
-CXR,CX,Christmas Island,The Settlement (Flying Fish Cove),CXR,CXR
-CCK,CC,Cocos (Keeling) Islands,West Island,CCK,CCK
-HMD,HM,Heard Island and McDonald Islands,,HMD,HMD
-NFK,NF,Norfolk Island,Kingston,NFK,Pacific
-NCL,NC,New Caledonia,Noumea,NCL,Pacific
-PYF,PF,French Polynesia,Papeete,PYF,Pacific
-MYT,YT,Mayotte,Mamoudzou,MYT,MYT
-GLP,GP,Saint Barthelemy,Gustavia,GLP,GLP
-GLP,GP,Saint Martin,Marigot,GLP,GLP
-SPM,PM,Saint Pierre and Miquelon,Saint-Pierre,SPM,SPM
-WLF,WF,Wallis and Futuna,Mata'utu,WLF,WLF
-ATF,TF,French Southern and Antarctic Lands,Martin-de-Viviès,ATF,ATF
-PYF,PF,Clipperton Island,,PYF,PYF
-BVT,BV,Bouvet Island,,BVT,BVT
-COK,CK,Cook Islands,Avarua,COK,Pacific
-NIU,NU,Niue,Alofi,NIU,Pacific
-TKL,TK,Tokelau,,TKL,TKL
-GGY,GG,Guernsey,Saint Peter Port,GGY,GGY
-IMN,IM,Isle of Man,Douglas,IMN,IMN
-JEY,JE,Jersey,Saint Helier,JEY,JEY
-AIA,AI,Anguilla,The Valley,AIA,AIA
-BMU,BM,Bermuda,Hamilton,BMU,Latin America
-IOT,IO,British Indian Ocean Territory,,IOT,IOT
-VGB,VG,British Virgin Islands,Road Town,VGB,VGB
-CYM,KY,Cayman Islands,George Town,CYM,CYM
-FLK,FK,Falkland Islands (Islas Malvinas),Stanley,FLK,FLK
-GIB,GI,Gibraltar,Gibraltar,GIB,GIB
-MSR,MS,Montserrat,Plymouth,MSR,MSR
-PCN,PN,Pitcairn Islands,Adamstown,PCN,PCN
-SHN,SH,Saint Helena,Jamestown,SHN,SHN
-SGS,GS,South Georgia & South Sandwich Islands,,SGS,SGS
-TCA,TC,Turks and Caicos Islands,Grand Turk,TCA,TCA
-MNP,MP,Northern Mariana Islands,Saipan,MNP,MNP
-PRI,PR,Puerto Rico,San Juan,PRI,Latin America
-ASM,AS,American Samoa,Pago Pago,ASM,Pacific
-UMI,UM,Baker Island,,UMI,UMI
-GUM,GU,Guam,Hagatna,GUM,GUM
-UMI,UM,Howland Island,,UMI,UMI
-UMI,UM,Jarvis Island,,UMI,UMI
-UMI,UM,Johnston Atoll,,UMI,UMI
-UMI,UM,Kingman Reef,,UMI,UMI
-UMI,UM,Midway Islands,,UMI,UMI
-UMI,UM,Navassa Island,,UMI,UMI
-UMI,UM,Palmyra Atoll,,UMI,UMI
-VIR,VI,U.S. Virgin Islands,Charlotte Amalie,VIR,VIR
-UMI,UM,Wake Island,,UMI,Pacific
-HKG,HK,Hong Kong,,HKG,Asia
-MAC,MO,Macau,Macau,MAC,Asia
-FRO,FO,Faroe Islands,Torshavn,FRO,FRO
-GRL,GL,Greenland,Nuuk (Godthab),GRL,GRL
-GUF,GF,French Guiana,Cayenne,GUF,GUF
-GLP,GP,Guadeloupe,Basse-Terre,GLP,Latin America
-MTQ,MQ,Martinique,Fort-de-France,MTQ,MTQ
-REU,RE,Reunion,Saint-Denis,REU,Africa
-ALA,AX,Aland,Mariehamn,ALA,Europe
-ABW,AW,Aruba,Oranjestad,ABW,Lating America
-ANT,AN,Netherlands Antilles,Willemstad,ANT,Europe
-SJM,SJ,Svalbard,Longyearbyen,SJM,SJM
-ASC,AC,Ascension,Georgetown,ASC,ASC
-TAA,TA,Tristan da Cunha,Edinburgh,TAA,TAA
-ATA,AQ,Australian Antarctic Territory,,ATA,Antartica
-ATA,AQ,Ross Dependency,,ATA,Antartica
-ATA,AQ,Peter I Island,,ATA,Antartica
-ATA,AQ,Queen Maud Land,,ATA,Antartica
-ATA,AQ,British Antarctic Territory,,ATA,Antartica
+id,cca2,Common Name,capital,area,region,subregion
+ABW,AW,Aruba,Oranjestad,180,Americas,Caribbean
+AFG,AF,Afghanistan,Kabul,652230,Asia,Southern Asia
+AGO,AO,Angola,Luanda,1246700,Africa,Middle Africa
+AIA,AI,Anguilla,The Valley,91,Americas,Caribbean
+ALA,AX,Åland Islands,Mariehamn,1580,Europe,Northern Europe
+ALB,AL,Albania,Tirana,28748,Europe,Southern Europe
+AND,AD,Andorra,Andorra la Vella,468,Europe,Southern Europe
+ARE,AE,United Arab Emirates,Abu Dhabi,83600,Asia,Western Asia
+ARG,AR,Argentina,Buenos Aires,2780400,Americas,South America
+ARM,AM,Armenia,Yerevan,29743,Asia,Western Asia
+ASM,AS,American Samoa,Pago Pago,199,Oceania,Polynesia
+ATA,AQ,Antarctica,,14000000,,
+ATF,TF,French Southern and Antarctic Lands,Port-aux-Français,7747,,
+ATG,AG,Antigua and Barbuda,Saint John's,442,Americas,Caribbean
+AUS,AU,Australia,Canberra,7692024,Oceania,Australia and New Zealand
+AUT,AT,Austria,Vienna,83871,Europe,Western Europe
+AZE,AZ,Azerbaijan,Baku,86600,Asia,Western Asia
+BDI,BI,Burundi,Bujumbura,27834,Africa,Eastern Africa
+BEL,BE,Belgium,Brussels,30528,Europe,Western Europe
+BEN,BJ,Benin,Porto-Novo,112622,Africa,Western Africa
+BFA,BF,Burkina Faso,Ouagadougou,272967,Africa,Western Africa
+BGD,BD,Bangladesh,Dhaka,147570,Asia,Southern Asia
+BGR,BG,Bulgaria,Sofia,110879,Europe,Eastern Europe
+BHR,BH,Bahrain,Manama,765,Asia,Western Asia
+BHS,BS,Bahamas,Nassau,13943,Americas,Caribbean
+BIH,BA,Bosnia and Herzegovina,Sarajevo,51209,Europe,Southern Europe
+BLM,BL,Saint Barthélemy,Gustavia,21,Americas,Caribbean
+BLR,BY,Belarus,Minsk,207600,Europe,Eastern Europe
+BLZ,BZ,Belize,Belmopan,22966,Americas,Central America
+BMU,BM,Bermuda,Hamilton,54,Americas,Northern America
+BOL,BO,Bolivia,Sucre,1098581,Americas,South America
+BRA,BR,Brazil,Brasília,8515767,Americas,South America
+BRB,BB,Barbados,Bridgetown,430,Americas,Caribbean
+BRN,BN,Brunei,Bandar Seri Begawan,5765,Asia,South-Eastern Asia
+BTN,BT,Bhutan,Thimphu,38394,Asia,Southern Asia
+BVT,BV,Bouvet Island,,49,,
+BWA,BW,Botswana,Gaborone,582000,Africa,Southern Africa
+CAF,CF,Central African Republic,Bangui,622984,Africa,Middle Africa
+CAN,CA,Canada,Ottawa,9984670,Americas,Northern America
+CCK,CC,Cocos (Keeling) Islands,West Island,14,Oceania,Australia and New Zealand
+CHE,CH,Switzerland,Bern,41284,Europe,Western Europe
+CHL,CL,Chile,Santiago,756102,Americas,South America
+CHN,CN,China,Beijing,9706961,Asia,Eastern Asia
+CIV,CI,Ivory Coast,Yamoussoukro,322463,Africa,Western Africa
+CMR,CM,Cameroon,Yaoundé,475442,Africa,Middle Africa
+COD,CD,DR Congo,Kinshasa,2344858,Africa,Middle Africa
+COG,CG,Republic of the Congo,Brazzaville,342000,Africa,Middle Africa
+COK,CK,Cook Islands,Avarua,236,Oceania,Polynesia
+COL,CO,Colombia,Bogotá,1141748,Americas,South America
+COM,KM,Comoros,Moroni,1862,Africa,Eastern Africa
+CPV,CV,Cape Verde,Praia,4033,Africa,Western Africa
+CRI,CR,Costa Rica,San José,51100,Americas,Central America
+CUB,CU,Cuba,Havana,109884,Americas,Caribbean
+CUW,CW,Curaçao,Willemstad,444,Americas,Caribbean
+CXR,CX,Christmas Island,Flying Fish Cove,135,Oceania,Australia and New Zealand
+CYM,KY,Cayman Islands,George Town,264,Americas,Caribbean
+CYP,CY,Cyprus,Nicosia,9251,Europe,Eastern Europe
+CZE,CZ,Czechia,Prague,78865,Europe,Eastern Europe
+DEU,DE,Germany,Berlin,357114,Europe,Western Europe
+DJI,DJ,Djibouti,Djibouti,23200,Africa,Eastern Africa
+DMA,DM,Dominica,Roseau,751,Americas,Caribbean
+DNK,DK,Denmark,Copenhagen,43094,Europe,Northern Europe
+DOM,DO,Dominican Republic,Santo Domingo,48671,Americas,Caribbean
+DZA,DZ,Algeria,Algiers,2381741,Africa,Northern Africa
+ECU,EC,Ecuador,Quito,276841,Americas,South America
+EGY,EG,Egypt,Cairo,1002450,Africa,Northern Africa
+ERI,ER,Eritrea,Asmara,117600,Africa,Eastern Africa
+ESH,EH,Western Sahara,El Aaiún,266000,Africa,Northern Africa
+ESP,ES,Spain,Madrid,505992,Europe,Southern Europe
+EST,EE,Estonia,Tallinn,45227,Europe,Northern Europe
+ETH,ET,Ethiopia,Addis Ababa,1104300,Africa,Eastern Africa
+FIN,FI,Finland,Helsinki,338424,Europe,Northern Europe
+FJI,FJ,Fiji,Suva,18272,Oceania,Melanesia
+FLK,FK,Falkland Islands,Stanley,12173,Americas,South America
+FRA,FR,France,Paris,551695,Europe,Western Europe
+FRO,FO,Faroe Islands,Tórshavn,1393,Europe,Northern Europe
+FSM,FM,Micronesia,Palikir,702,Oceania,Micronesia
+GAB,GA,Gabon,Libreville,267668,Africa,Middle Africa
+GBR,GB,United Kingdom,London,242900,Europe,Northern Europe
+GEO,GE,Georgia,Tbilisi,69700,Asia,Western Asia
+GGY,GG,Guernsey,St. Peter Port,78,Europe,Northern Europe
+GHA,GH,Ghana,Accra,238533,Africa,Western Africa
+GIB,GI,Gibraltar,Gibraltar,6,Europe,Southern Europe
+GIN,GN,Guinea,Conakry,245857,Africa,Western Africa
+GLP,GP,Guadeloupe,Basse-Terre,1628,Americas,Caribbean
+GMB,GM,Gambia,Banjul,10689,Africa,Western Africa
+GNB,GW,Guinea-Bissau,Bissau,36125,Africa,Western Africa
+GNQ,GQ,Equatorial Guinea,Malabo,28051,Africa,Middle Africa
+GRC,GR,Greece,Athens,131990,Europe,Southern Europe
+GRD,GD,Grenada,St. George's,344,Americas,Caribbean
+GRL,GL,Greenland,Nuuk,2166086,Americas,Northern America
+GTM,GT,Guatemala,Guatemala City,108889,Americas,Central America
+GUF,GF,French Guiana,Cayenne,83534,Americas,South America
+GUM,GU,Guam,Hagåtña,549,Oceania,Micronesia
+GUY,GY,Guyana,Georgetown,214969,Americas,South America
+HKG,HK,Hong Kong,City of Victoria,1104,Asia,Eastern Asia
+HMD,HM,Heard Island and McDonald Islands,,412,,
+HND,HN,Honduras,Tegucigalpa,112492,Americas,Central America
+HRV,HR,Croatia,Zagreb,56594,Europe,Southern Europe
+HTI,HT,Haiti,Port-au-Prince,27750,Americas,Caribbean
+HUN,HU,Hungary,Budapest,93028,Europe,Eastern Europe
+IDN,ID,Indonesia,Jakarta,1904569,Asia,South-Eastern Asia
+IMN,IM,Isle of Man,Douglas,572,Europe,Northern Europe
+IND,IN,India,New Delhi,3287590,Asia,Southern Asia
+IOT,IO,British Indian Ocean Territory,Diego Garcia,60,Africa,Eastern Africa
+IRL,IE,Ireland,Dublin,70273,Europe,Northern Europe
+IRN,IR,Iran,Tehran,1648195,Asia,Southern Asia
+IRQ,IQ,Iraq,Baghdad,438317,Asia,Western Asia
+ISL,IS,Iceland,Reykjavik,103000,Europe,Northern Europe
+ISR,IL,Israel,Jerusalem,20770,Asia,Western Asia
+ITA,IT,Italy,Rome,301336,Europe,Southern Europe
+JAM,JM,Jamaica,Kingston,10991,Americas,Caribbean
+JEY,JE,Jersey,Saint Helier,116,Europe,Northern Europe
+JOR,JO,Jordan,Amman,89342,Asia,Western Asia
+JPN,JP,Japan,Tokyo,377930,Asia,Eastern Asia
+KAZ,KZ,Kazakhstan,Astana,2724900,Asia,Central Asia
+KEN,KE,Kenya,Nairobi,580367,Africa,Eastern Africa
+KGZ,KG,Kyrgyzstan,Bishkek,199951,Asia,Central Asia
+KHM,KH,Cambodia,Phnom Penh,181035,Asia,South-Eastern Asia
+KIR,KI,Kiribati,South Tarawa,811,Oceania,Micronesia
+KNA,KN,Saint Kitts and Nevis,Basseterre,261,Americas,Caribbean
+KOR,KR,South Korea,Seoul,100210,Asia,Eastern Asia
+UNK,XK,Kosovo,Pristina,10908,Europe,Eastern Europe
+KWT,KW,Kuwait,Kuwait City,17818,Asia,Western Asia
+LAO,LA,Laos,Vientiane,236800,Asia,South-Eastern Asia
+LBN,LB,Lebanon,Beirut,10452,Asia,Western Asia
+LBR,LR,Liberia,Monrovia,111369,Africa,Western Africa
+LBY,LY,Libya,Tripoli,1759540,Africa,Northern Africa
+LCA,LC,Saint Lucia,Castries,616,Americas,Caribbean
+LIE,LI,Liechtenstein,Vaduz,160,Europe,Western Europe
+LKA,LK,Sri Lanka,Colombo,65610,Asia,Southern Asia
+LSO,LS,Lesotho,Maseru,30355,Africa,Southern Africa
+LTU,LT,Lithuania,Vilnius,65300,Europe,Northern Europe
+LUX,LU,Luxembourg,Luxembourg,2586,Europe,Western Europe
+LVA,LV,Latvia,Riga,64559,Europe,Northern Europe
+MAC,MO,Macau,,30,Asia,Eastern Asia
+MAF,MF,Saint Martin,Marigot,53,Americas,Caribbean
+MAR,MA,Morocco,Rabat,446550,Africa,Northern Africa
+MCO,MC,Monaco,Monaco,2,Europe,Western Europe
+MDA,MD,Moldova,Chișinău,33846,Europe,Eastern Europe
+MDG,MG,Madagascar,Antananarivo,587041,Africa,Eastern Africa
+MDV,MV,Maldives,Malé,300,Asia,Southern Asia
+MEX,MX,Mexico,Mexico City,1964375,Americas,Northern America
+MHL,MH,Marshall Islands,Majuro,181,Oceania,Micronesia
+MKD,MK,Macedonia,Skopje,25713,Europe,Southern Europe
+MLI,ML,Mali,Bamako,1240192,Africa,Western Africa
+MLT,MT,Malta,Valletta,316,Europe,Southern Europe
+MMR,MM,Myanmar,Naypyidaw,676578,Asia,South-Eastern Asia
+MNE,ME,Montenegro,Podgorica,13812,Europe,Southern Europe
+MNG,MN,Mongolia,Ulan Bator,1564110,Asia,Eastern Asia
+MNP,MP,Northern Mariana Islands,Saipan,464,Oceania,Micronesia
+MOZ,MZ,Mozambique,Maputo,801590,Africa,Eastern Africa
+MRT,MR,Mauritania,Nouakchott,1030700,Africa,Western Africa
+MSR,MS,Montserrat,Plymouth,102,Americas,Caribbean
+MTQ,MQ,Martinique,Fort-de-France,1128,Americas,Caribbean
+MUS,MU,Mauritius,Port Louis,2040,Africa,Eastern Africa
+MWI,MW,Malawi,Lilongwe,118484,Africa,Eastern Africa
+MYS,MY,Malaysia,Kuala Lumpur,330803,Asia,South-Eastern Asia
+MYT,YT,Mayotte,Mamoudzou,374,Africa,Eastern Africa
+NAM,NA,Namibia,Windhoek,825615,Africa,Southern Africa
+NCL,NC,New Caledonia,Nouméa,18575,Oceania,Melanesia
+NER,NE,Niger,Niamey,1267000,Africa,Western Africa
+NFK,NF,Norfolk Island,Kingston,36,Oceania,Australia and New Zealand
+NGA,NG,Nigeria,Abuja,923768,Africa,Western Africa
+NIC,NI,Nicaragua,Managua,130373,Americas,Central America
+NIU,NU,Niue,Alofi,260,Oceania,Polynesia
+NLD,NL,Netherlands,Amsterdam,41850,Europe,Western Europe
+NOR,NO,Norway,Oslo,323802,Europe,Northern Europe
+NPL,NP,Nepal,Kathmandu,147181,Asia,Southern Asia
+NRU,NR,Nauru,Yaren,21,Oceania,Micronesia
+NZL,NZ,New Zealand,Wellington,270467,Oceania,Australia and New Zealand
+OMN,OM,Oman,Muscat,309500,Asia,Western Asia
+PAK,PK,Pakistan,Islamabad,881912,Asia,Southern Asia
+PAN,PA,Panama,Panama City,75417,Americas,Central America
+PCN,PN,Pitcairn Islands,Adamstown,47,Oceania,Polynesia
+PER,PE,Peru,Lima,1285216,Americas,South America
+PHL,PH,Philippines,Manila,342353,Asia,South-Eastern Asia
+PLW,PW,Palau,Ngerulmud,459,Oceania,Micronesia
+PNG,PG,Papua New Guinea,Port Moresby,462840,Oceania,Melanesia
+POL,PL,Poland,Warsaw,312679,Europe,Eastern Europe
+PRI,PR,Puerto Rico,San Juan,8870,Americas,Caribbean
+PRK,KP,North Korea,Pyongyang,120538,Asia,Eastern Asia
+PRT,PT,Portugal,Lisbon,92090,Europe,Southern Europe
+PRY,PY,Paraguay,Asunción,406752,Americas,South America
+PSE,PS,Palestine,Ramallah,6220,Asia,Western Asia
+PYF,PF,French Polynesia,Papeetē,4167,Oceania,Polynesia
+QAT,QA,Qatar,Doha,11586,Asia,Western Asia
+REU,RE,Réunion,Saint-Denis,2511,Africa,Eastern Africa
+ROU,RO,Romania,Bucharest,238391,Europe,Eastern Europe
+RUS,RU,Russia,Moscow,17098242,Europe,Eastern Europe
+RWA,RW,Rwanda,Kigali,26338,Africa,Eastern Africa
+SAU,SA,Saudi Arabia,Riyadh,2149690,Asia,Western Asia
+SDN,SD,Sudan,Khartoum,1886068,Africa,Northern Africa
+SEN,SN,Senegal,Dakar,196722,Africa,Western Africa
+SGP,SG,Singapore,Singapore,710,Asia,South-Eastern Asia
+SGS,GS,South Georgia,King Edward Point,3903,Americas,South America
+SJM,SJ,Svalbard and Jan Mayen,Longyearbyen,-1,Europe,Northern Europe
+SLB,SB,Solomon Islands,Honiara,28896,Oceania,Melanesia
+SLE,SL,Sierra Leone,Freetown,71740,Africa,Western Africa
+SLV,SV,El Salvador,San Salvador,21041,Americas,Central America
+SMR,SM,San Marino,City of San Marino,61,Europe,Southern Europe
+SOM,SO,Somalia,Mogadishu,637657,Africa,Eastern Africa
+SPM,PM,Saint Pierre and Miquelon,Saint-Pierre,242,Americas,Northern America
+SRB,RS,Serbia,Belgrade,88361,Europe,Southern Europe
+SSD,SS,South Sudan,Juba,619745,Africa,Middle Africa
+STP,ST,São Tomé and Príncipe,São Tomé,964,Africa,Middle Africa
+SUR,SR,Suriname,Paramaribo,163820,Americas,South America
+SVK,SK,Slovakia,Bratislava,49037,Europe,Central Europe
+SVN,SI,Slovenia,Ljubljana,20273,Europe,Southern Europe
+SWE,SE,Sweden,Stockholm,450295,Europe,Northern Europe
+SWZ,SZ,Swaziland,Lobamba,17364,Africa,Southern Africa
+SXM,SX,Sint Maarten,Philipsburg,34,Americas,Caribbean
+SYC,SC,Seychelles,Victoria,452,Africa,Eastern Africa
+SYR,SY,Syria,Damascus,185180,Asia,Western Asia
+TCA,TC,Turks and Caicos Islands,Cockburn Town,948,Americas,Caribbean
+TCD,TD,Chad,N'Djamena,1284000,Africa,Middle Africa
+TGO,TG,Togo,Lomé,56785,Africa,Western Africa
+THA,TH,Thailand,Bangkok,513120,Asia,South-Eastern Asia
+TJK,TJ,Tajikistan,Dushanbe,143100,Asia,Central Asia
+TKL,TK,Tokelau,Fakaofo,12,Oceania,Polynesia
+TKM,TM,Turkmenistan,Ashgabat,488100,Asia,Central Asia
+TLS,TL,Timor-Leste,Dili,14874,Asia,South-Eastern Asia
+TON,TO,Tonga,Nuku'alofa,747,Oceania,Polynesia
+TTO,TT,Trinidad and Tobago,Port of Spain,5130,Americas,Caribbean
+TUN,TN,Tunisia,Tunis,163610,Africa,Northern Africa
+TUR,TR,Turkey,Ankara,783562,Asia,Western Asia
+TUV,TV,Tuvalu,Funafuti,26,Oceania,Polynesia
+TWN,TW,Taiwan,Taipei,36193,Asia,Eastern Asia
+TZA,TZ,Tanzania,Dodoma,945087,Africa,Eastern Africa
+UGA,UG,Uganda,Kampala,241550,Africa,Eastern Africa
+UKR,UA,Ukraine,Kiev,603500,Europe,Eastern Europe
+UMI,UM,United States Minor Outlying Islands,,34,Americas,Northern America
+URY,UY,Uruguay,Montevideo,181034,Americas,South America
+USA,US,United States,Washington D.C.,9372610,Americas,Northern America
+UZB,UZ,Uzbekistan,Tashkent,447400,Asia,Central Asia
+VAT,VA,Vatican City,Vatican City,0,Europe,Southern Europe
+VCT,VC,Saint Vincent and the Grenadines,Kingstown,389,Americas,Caribbean
+VEN,VE,Venezuela,Caracas,916445,Americas,South America
+VGB,VG,British Virgin Islands,Road Town,151,Americas,Caribbean
+VIR,VI,United States Virgin Islands,Charlotte Amalie,347,Americas,Caribbean
+VNM,VN,Vietnam,Hanoi,331212,Asia,South-Eastern Asia
+VUT,VU,Vanuatu,Port Vila,12189,Oceania,Melanesia
+WLF,WF,Wallis and Futuna,Mata-Utu,142,Oceania,Polynesia
+WSM,WS,Samoa,Apia,2842,Oceania,Polynesia
+YEM,YE,Yemen,Sana'a,527968,Asia,Western Asia
+ZAF,ZA,South Africa,Pretoria,1221037,Africa,Southern Africa
+ZMB,ZM,Zambia,Lusaka,752612,Africa,Eastern Africa
+ZWE,ZW,Zimbabwe,Harare,390757,Africa,Eastern Africa
